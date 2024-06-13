@@ -1,0 +1,1 @@
+This project is aimed at predicting the authenticity of banknotes using a neural network model. The dataset used contains various features extracted from images of banknotes, and the model classifies them as real or fake. The project demonstrates the application of machine learning techniques in fraud detection.
